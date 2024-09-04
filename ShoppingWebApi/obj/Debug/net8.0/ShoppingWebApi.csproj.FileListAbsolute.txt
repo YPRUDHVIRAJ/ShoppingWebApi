@@ -1,0 +1,6 @@
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.csproj.AssemblyReference.cache
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.AssemblyInfoInputs.cache
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.AssemblyInfo.cs
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PRUDHVI RAJ\source\repos\ShoppingWebApi\obj\Debug\net8.0\ShoppingWebApi.MvcApplicationPartsAssemblyInfo.cache
